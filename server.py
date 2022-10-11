@@ -1,4 +1,4 @@
-# echo-server.py
+# server.py
 
 import socket
 

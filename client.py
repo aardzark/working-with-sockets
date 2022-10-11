@@ -1,4 +1,4 @@
-# echo-client.py
+# client.py
 
 import socket
 
