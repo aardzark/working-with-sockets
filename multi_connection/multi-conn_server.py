@@ -7,8 +7,6 @@ import types
 
 sel = selectors.DefaultSelector()
 
-# ...
-
 host, port = sys.argv[1], int(sys.argv[2])
 lsock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 lsock.bind((host, port))
