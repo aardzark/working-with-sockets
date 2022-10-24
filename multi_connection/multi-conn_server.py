@@ -1,4 +1,6 @@
-# multiconn-server.py
+# multi-conn_server.py
+# source: https://github.com/realpython/materials/blob/master/python-sockets-tutorial/multiconn-server.py
+# author: Ian Currie
 
 import sys
 import socket

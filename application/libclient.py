@@ -1,4 +1,6 @@
 # libclient.py
+# source: https://github.com/realpython/materials/blob/master/python-sockets-tutorial/libclient.py
+# author: Ian Currie
 
 import sys
 import selectors

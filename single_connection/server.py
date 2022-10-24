@@ -1,5 +1,6 @@
 # server.py
-
+# source: https://github.com/realpython/materials/blob/master/python-sockets-tutorial/echo-server.py
+# author: Ian Currie
 import socket
 
 HOST = "127.0.0.1"  # Standard loopback interface address (localhost)

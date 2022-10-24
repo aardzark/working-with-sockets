@@ -1,4 +1,6 @@
-# multi-conn_client.py.py
+# multi-conn_client.py
+# source: https://github.com/realpython/materials/blob/master/python-sockets-tutorial/multiconn-client.py
+# author: Ian Currie
 
 import sys
 import socket

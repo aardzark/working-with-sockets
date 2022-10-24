@@ -1,4 +1,6 @@
 # client.py
+# source: https://github.com/realpython/materials/blob/master/python-sockets-tutorial/echo-client.py
+# author: Ian Currie
 
 import socket
 

@@ -1,4 +1,6 @@
 # libserver.py
+# source: https://github.com/realpython/materials/blob/master/python-sockets-tutorial/libserver.py
+# author: Ian Currie
 
 import sys
 import selectors
